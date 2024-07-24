@@ -19,6 +19,6 @@ public class Employee {
 			this.name= name;
 		}
 		
-		
+		//added to string method
 }
 
